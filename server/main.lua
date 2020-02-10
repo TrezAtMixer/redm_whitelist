@@ -1,4 +1,4 @@
-WhiteList       = {}
+WhiteList= {}
 
 function loadWhiteList(cb)
 	Whitelist = {}
